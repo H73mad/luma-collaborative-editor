@@ -15,4 +15,4 @@ Next.js (App Router), React, TypeScript, Konva/react-konva, Tailwind CSS, Node.j
 
 ## Project links
 - GitHub: https://github.com/H73mad/luma-collaborative-editor
-- Live: <add deployment URL after publish>
+- Live: https://project6-six-pied.vercel.app/
